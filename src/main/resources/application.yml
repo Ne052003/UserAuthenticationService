@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: authenticationService
+
+  profiles:
+    active: prod
+
+server:
+  port: 8097
